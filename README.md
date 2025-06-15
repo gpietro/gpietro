@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Pietro Ghezzi's github stats](https://github-readme-stats.vercel.app/api?username=gpietro&theme=nord&show_icons=true)
+<!--![Pietro Ghezzi's github stats](https://github-readme-stats.vercel.app/api?username=gpietro&theme=nord&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpietro&layout=compact&theme=nord&show_icons=true)
 <!--
 **gpietro/gpietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
